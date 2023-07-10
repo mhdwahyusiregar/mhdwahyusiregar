@@ -1,3 +1,8 @@
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mhdwahyusiregar" alt="mhdwahyusiregar's profile views" align="right">
+</a>
+<a href="https://github.com/mhdwahyusiregar?tab=followers"><img src="https://img.shields.io/github/followers/mhdwahyusiregar?label=Followers&style=social" alt="GitHub Badge"></a>
+
 # Hi everyone!
 
 ### Perkenalkan nama saya **Muhammad Wahyu Siregar**.
