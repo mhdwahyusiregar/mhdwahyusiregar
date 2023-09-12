@@ -6,8 +6,8 @@
 # Hi everyone!
 
 ### Perkenalkan nama saya **Muhammad Wahyu Siregar**.
-Saya seorang **Full-Stack Web Developer**  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mhdwahyusiregar/) ku ya.
+Saya seorang **Front-End Web Developer**  
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mwahyusrg/) ku ya.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
