@@ -10,6 +10,7 @@ Saya seorang **Front-End Web Developer**
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mwahyusrg/) ku ya.
 
 ### Tech Stack
+  <a href="#"><img align="left" alt="CSS" title="CSS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" /></a>
   <a href="#"><img align="left" alt="Html5" title="Html5" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" /></a>
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
